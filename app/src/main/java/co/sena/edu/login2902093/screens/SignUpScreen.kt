@@ -28,7 +28,7 @@ fun SignUpScreen() {
         Column (modifier = Modifier.fillMaxSize()) {
             NormalTextComponent(value = stringResource(id = R.string.hello))
             HeadTextComponent(value = stringResource(id = R.string.create_account))
-        }
+        } //Column
        
     } //Surface
 } //SignUpScreen
