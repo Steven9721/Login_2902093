@@ -8,3 +8,4 @@ val TextColor = Color(0xFF1D1617)
 val AccentColor = Color(0xFFC588F2)
 val GrayColor = Color(0xFF7B6F72)
 val WhiteColor = Color(0xFFFFFFFF)
+//Cambios Directos en la paleta de colores

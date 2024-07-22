@@ -38,4 +38,4 @@ fun SignUpScreen() {
 @Composable
 fun DefaultSignUpScreen() {
     SignUpScreen()
-}
+} //DefaultSignUpScreen
